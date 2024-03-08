@@ -4,41 +4,38 @@ Submitted by: **Edith Ngundi**
 
 **Wishlist** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
-- [ ] **User can see their list of items based on previously inputted items**
+- [x] **User can add an item to their wishlist**
+- [x] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
 - [ ] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
-- [ ] User can open an item's URL by clicking on the item
+- [x] User can delete an item by long pressing on the item
+- [x] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Prices are displayed to 2 decimal places in dollars
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://raw.githubusercontent.com/edithngundi/WishList/main/wishlist.mp4' title='Video Walkthrough' width='300' height='700' alt='Video Walkthrough'/>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Understanding the role of the adapter
+- Breaking down the different xml files
 
 ## License
 
