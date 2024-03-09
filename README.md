@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://raw.githubusercontent.com/edithngundi/WishList/main/wishlist.mp4' title='Video Walkthrough' width='300' height='700' alt='Video Walkthrough'/>
 
-GIF created with [Kap](https://getkap.co/) for macOS
+GIF created with `Record It` for macOS. The video was too large to embed here as a GIF
 
 ## Notes
 
